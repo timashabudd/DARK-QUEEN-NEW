@@ -82,11 +82,11 @@
 
   </a>
   <a href="https://github.com/ChamodKeshan">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Alexa%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Dark Queen%20X&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/94786825798">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Chamod%20X%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-M.R TIMA%20X%20-purple&style=plastic">
 
   </a>
 </p>
